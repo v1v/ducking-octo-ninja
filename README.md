@@ -1,4 +1,3 @@
 London20140513IntermediateTraining
 ==================================
-
-London 20140513 IntermediateTraining Repo
+Here are some changes that I am making to the readme file for ducking-octo-ninja
